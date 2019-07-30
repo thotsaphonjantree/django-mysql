@@ -3,4 +3,4 @@ basic REST API CRUD frontend : Vue.js(javascript) , backend:Django (Python) , Da
 
 
 start django
->>> phython ./manage.py runserver 8080
+> phython ./manage.py runserver 8080
